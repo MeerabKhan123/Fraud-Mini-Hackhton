@@ -66,4 +66,4 @@ Given the class imbalance, the following metrics were prioritized:
 - **Logistic Regression** failed to detect any fraud due to extreme class imbalance.
 - **Decision Tree** detected a few fraud cases but had a low ROC‑AUC.
 - **Random Forest** achieved the **highest ROC‑AUC (0.691)** and identified the most fraudulent transactions among the three.
-  - **Conclusion:** Random Forest is the best performing model for this imbalanced fraud detection task.
+  - ***Conclusion:*** Random Forest is the best performing model for this imbalanced fraud detection task.
